@@ -37,6 +37,15 @@ The list of all the talks at HN Kansai events so far!
 - Date: 1 March 2019
 - [Developing VR Experiences from Scratch With WebVR](https://www.youtube.com/watch?v=9GvEpqdkE0c&list=PLPbAAnPEAdq73EitCvnkfyScDulthkNXM&index=2&t=0s) - by Uri Shaked 
 
+## HN Kansai 17
+
+- Location: Kobe
+- Date: 28 March 2014
+- [Real Coding WordPress](https://youtu.be/roeE3d_nY2w) by Jeff Madsen
+- [Mag, New Image Sharing Service](https://youtu.be/HS1R3vVZQ_Q) by Shota Mizukami
+- [Awesome Windows Manager](https://youtu.be/p-sJPOMsSgM) - by Sean Colquhoun
+- [Building an App with Meteor](https://youtu.be/KEi7Dt1yk-M) - by Sacha Greif
+
 ## HN Kansai 13
 
 - Location: Kobe
