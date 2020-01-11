@@ -59,6 +59,12 @@ The list of all the talks at HN Kansai events so far!
 - [Mangaki, Using Deep Learning and Posters to Provide Manga/Anime Recommendations](https://youtu.be/nE_rHgfpKms) - by Jill-Jenn Vie
 - [How I Joined GitLab From Nothing](https://youtu.be/DUVHC4K4I-E) - by Shinya Maeda
 
+## HN Kansai 62
+
+- Location: Kobe
+- Date: 25 May 2018
+- [Mechanical Keyboards](https://youtu.be/HWNgy1pldtM) by Matthew Badeau 
+
 ## HN Kansai 51
 
 - Location: Osaka
