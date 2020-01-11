@@ -6,6 +6,14 @@ The list of all the talks at HN Kansai events so far!
 - [An Introduction to Github Actions](https://www.youtube.com/watch?v=3wdNZpsujZg&list=PLPbAAnPEAdq4glNh5y2IzsBK2LcqUIL4c&index=2&t=3s) - by Yosh Talwar
 - [Smooth Dev Induction with Lando](https://www.youtube.com/watch?v=Q7tq_BEnfFY&list=PLPbAAnPEAdq4glNh5y2IzsBK2LcqUIL4c&index=3&t=127s) - by Roger Marley
 
+
+## HN Kansai 76
+
+Location: Osaka
+Date: 25 October 2019
+- [Move Fast, Break Things](https://www.youtube.com/watch?v=3hvCZfKa1wo&list=PLPbAAnPEAdq47YLZ2dVtgHEsB16pg0krU&index=2&t=0s) - by Sacha Greif
+
+
 ## HN Kansai 75
 
 
