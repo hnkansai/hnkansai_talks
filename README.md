@@ -31,6 +31,13 @@ The list of all the talks at HN Kansai events so far!
 
 - The Linux Desktop: How Much Has It Progressed? - By Raphael Guyot
 
+## HN Kansai 72
+
+- Location: Osaka
+- Date: 
+- [REST to GraphQL migration - Pros, Cons and Gotchas](https://youtu.be/TYDT3mVZs7I) - by Alexey Ivanov
+- [Open Data For Social Impact](https://youtu.be/FfPqEOPI9kY) - by Ben Webb
+
 ## HN Kansai 70
 
 - Location: Osaka
