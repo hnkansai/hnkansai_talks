@@ -7,6 +7,12 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 74
 
+## HN Kansai 11
+
+- VFX Camera Tracking - by David Morris
+- Flat Design - Sacha Greif
+- Building and Using a Standing Desk - Raphael Guyot 
+
 ## HN Kansai 9
 
 - Interactive Audiovisual Experience with the Leap Motion Controller - by Eddie Lee
