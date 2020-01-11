@@ -29,6 +29,12 @@ The list of all the talks at HN Kansai events so far!
 
 - The Linux Desktop: How Much Has It Progressed? - By Raphael Guyot
 
+## HN Kansai 70
+
+- Location: Osaka
+- Date: 1 March 2019
+- [ Developing VR Experiences from Scratch With WebVR WebVR](https://www.youtube.com/watch?v=9GvEpqdkE0c&list=PLPbAAnPEAdq73EitCvnkfyScDulthkNXM&index=2&t=0s) - by Uri Shaked 
+
 ## HN Kansai 11 - Kobe - 30 August 2013
 
 - VFX Camera Tracking - by David Morris
