@@ -3,6 +3,8 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 77
 
+- Location: Osaka
+- Date: 29 November 2019
 - [An Introduction to Github Actions](https://www.youtube.com/watch?v=3wdNZpsujZg&list=PLPbAAnPEAdq4glNh5y2IzsBK2LcqUIL4c&index=2&t=3s) - by Yosh Talwar
 - [Smooth Dev Induction with Lando](https://www.youtube.com/watch?v=Q7tq_BEnfFY&list=PLPbAAnPEAdq4glNh5y2IzsBK2LcqUIL4c&index=3&t=127s) - by Roger Marley
 
@@ -56,27 +58,35 @@ The list of all the talks at HN Kansai events so far!
 - Recognizing reading activities, by Kai Kunze
 - Open Pandora : The Pocket Gaming Computer running Linux, by Raphael Guyot
 
-## HN Kansai 6 - Osaka - 29 March 2013
+## HN Kansai 6
 
+- Location: Osaka
+- Date: 29 March 2013
 - [Hotfix, a Chrome Extension](https://www.youtube.com/watch?v=vi2-8Dv9IYY&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=2&t=0s) - by Andrew Holsted
 - [Multirotors](https://www.youtube.com/watch?v=-lNrJnUXk8g&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=3&t=0s) - by Stoyan Zhekov
 - [Using MailChimp and Zapier to Improve a Newsletter](https://www.youtube.com/watch?v=3k2AOBgFD_8&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=4&t=0s) - by Sacha Greif
 
-## HN Kansai 5 - Kyoto - 25 January 2013
+## HN Kansai 5 
 
+- Location: Kyoto
+- Date: 25 January 2013
 - The Tech Behind "Artifacts" - by Eddie Lee
 - Brain Hacking - by Jaymin Kessler
 - Using An Unlocked Phone in Japan - by Julien Bataille
 
-## HN Kansai 4 - Nishinomiya - 30 November 2012
+## HN Kansai 4 
 
+- Location: Nishinomiya
+- Date: 30 November 2012
 - VPNs - by Francisco Alcantara
 - Prototyping with Arduino - by Stoyan Zhekov
 - The First Hackers I Ever Knew - by Raphael Guyot
 - A Side Project - by Michael Frankland
 
-## HN Kansai 3 - Osaka - 26 October 2012
+## HN Kansai 3
 
+- Location: Osaka
+- Date: 26 October 2012
 * A closer look at the Raspberry Pi (including live demo) - by Raphael Guyot
 * An overview of ContextPower, an English vocab study system - by Russell Mull
 * Side Projects - by Sacha Greif
