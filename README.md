@@ -20,7 +20,6 @@ The list of all the talks at HN Kansai events so far!
 - Date: 27 September 2019
 - [Introduction to Ne04j](https://www.youtube.com/watch?v=sPnTrh4z7Fs&list=PLPbAAnPEAdq78ngayIZxlO9dGUK7njxiL&index=3&t=684s) - by Jimmy Crequer
 - [Highlights of the Tokyo Games Show 2019](https://www.youtube.com/watch?v=V7I5D4MKTeo&list=PLPbAAnPEAdq78ngayIZxlO9dGUK7njxiL&index=2&t=379s) - by Raphael Guyot (and Ben Murden, absent)
-- 
 
 ## HN Kansai 74
 
