@@ -51,6 +51,13 @@ The list of all the talks at HN Kansai events so far!
 - [The State of Javascript 2018](https://youtu.be/8whPMuYGuOY) - by Sacha Greif
 - [Introduction to the DAT Network](https://youtu.be/_2OdFHhCxrA) - by Martin Heidegger
 
+## HN Kansai 64
+
+- Location: Osaka
+- Date: 27 July 2018
+- [Mangaki, Using Deep Learning and Posters to Provide Manga/Anime Recommendations](https://youtu.be/nE_rHgfpKms) - by Jill-Jenn Vie
+- [How I Joined GitLab From Nothing](https://youtu.be/DUVHC4K4I-E) - by Shinya Maeda
+
 ## HN Kansai 17
 
 - Location: Kobe
