@@ -46,6 +46,11 @@ The list of all the talks at HN Kansai events so far!
 - [Awesome Windows Manager](https://youtu.be/p-sJPOMsSgM) - by Sean Colquhoun
 - [Building an App with Meteor](https://youtu.be/KEi7Dt1yk-M) - by Sacha Greif
 
+## HN Kansai 16
+
+- Location: Kyoto
+- Date: 28 February 2014
+
 ## HN Kansai 13
 
 - Location: Kobe
