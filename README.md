@@ -38,6 +38,12 @@ The list of all the talks at HN Kansai events so far!
 - [REST to GraphQL migration - Pros, Cons and Gotchas](https://youtu.be/TYDT3mVZs7I) - by Alexey Ivanov
 - [Open Data For Social Impact](https://youtu.be/FfPqEOPI9kY) - by Ben Webb
 
+## HN Kansai 71
+
+- Location: Osaka
+- Date: 29 March 2019
+- [Affective computing and AI for education and entertainment](https://youtu.be/5uKJd_rNFfc) - by Olivier Augereau
+
 ## HN Kansai 70
 
 - Location: Osaka
