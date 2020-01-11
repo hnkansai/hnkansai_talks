@@ -69,6 +69,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Osaka
 - Date: 27 April 2018
+- DAppboard a next-generation blockchain explorer - by Aimable Dusingizimana
 - [Home Server Beyond the Pi](https://youtu.be/q4t1R7JQcbw) by Raphael Guyot
 
 ## HN Kansai 57
