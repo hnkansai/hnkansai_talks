@@ -59,6 +59,13 @@ The list of all the talks at HN Kansai events so far!
 - [Mangaki, Using Deep Learning and Posters to Provide Manga/Anime Recommendations](https://youtu.be/nE_rHgfpKms) - by Jill-Jenn Vie
 - [How I Joined GitLab From Nothing](https://youtu.be/DUVHC4K4I-E) - by Shinya Maeda
 
+## HN Kansai 51
+
+- Location: Osaka
+- Date: 26 May 2017
+- [Silicon Valley: The Good, The Bad and The Ugly](https://youtu.be/6aqfKvXvXXk) - by David DuPouy
+- [Predatory High Frequency Trading](https://youtu.be/CHSaUo1P1fo) - by Craig Rozynski
+
 ## HN Kansai 17
 
 - Location: Kobe
