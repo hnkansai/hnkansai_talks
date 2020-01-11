@@ -44,6 +44,13 @@ The list of all the talks at HN Kansai events so far!
 - Date: 1 March 2019
 - [Developing VR Experiences from Scratch With WebVR](https://www.youtube.com/watch?v=9GvEpqdkE0c&list=PLPbAAnPEAdq73EitCvnkfyScDulthkNXM&index=2&t=0s) - by Uri Shaked 
 
+## HN Kansai 68
+
+- Location: Osaka
+- Date: 30 November 2018
+- [The State of Javascript 2018](https://youtu.be/8whPMuYGuOY) - by Sacha Greif
+- [Introduction to the DAT Network](https://youtu.be/_2OdFHhCxrA) - by Martin Heidegger
+
 ## HN Kansai 17
 
 - Location: Kobe
