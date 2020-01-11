@@ -7,7 +7,7 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 74
 
-## HN Kansai 11
+## HN Kansai 11 - Kobe - 30 August 2013
 
 - VFX Camera Tracking - by David Morris
 - Flat Design - Sacha Greif
