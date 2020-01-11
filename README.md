@@ -9,7 +9,8 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 76
 
-Location: Osaka, on: 25 October 2019
+- Location: Osaka
+- Date: 25 October 2019
 - [Move Fast, Break Things](https://www.youtube.com/watch?v=3hvCZfKa1wo&list=PLPbAAnPEAdq47YLZ2dVtgHEsB16pg0krU&index=2&t=0s) - by Sacha Greif
 
 
