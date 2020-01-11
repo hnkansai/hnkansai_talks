@@ -71,6 +71,13 @@ The list of all the talks at HN Kansai events so far!
 - Date: 27 April 2018
 - [Home Server Beyond the Pi](https://youtu.be/q4t1R7JQcbw) by Raphael Guyot
 
+## HN Kansai 57
+
+- Location: Osaka
+- Date: 24 November 2017
+- [Marketing Your Project Through Youtube Ads](https://youtu.be/hs30WPkRpsY) - by Bemmu Sepponen
+- [Solving Math Problems with Code]() - by Skye Prietley
+
 ## HN Kansai 51
 
 - Location: Osaka
