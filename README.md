@@ -34,7 +34,7 @@ The list of all the talks at HN Kansai events so far!
 ## HN Kansai 72
 
 - Location: Osaka
-- Date: 
+- Date: 26 April 2019
 - [REST to GraphQL migration - Pros, Cons and Gotchas](https://youtu.be/TYDT3mVZs7I) - by Alexey Ivanov
 - [Open Data For Social Impact](https://youtu.be/FfPqEOPI9kY) - by Ben Webb
 
