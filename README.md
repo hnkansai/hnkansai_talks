@@ -65,6 +65,12 @@ The list of all the talks at HN Kansai events so far!
 - Date: 25 May 2018
 - [Mechanical Keyboards](https://youtu.be/HWNgy1pldtM) by Matthew Badeau 
 
+## HN Kansai 61
+
+- Location: Osaka
+- Date: 27 April 2018
+- [Home Server Beyond the Pi](https://youtu.be/q4t1R7JQcbw) by Raphael Guyot
+
 ## HN Kansai 51
 
 - Location: Osaka
