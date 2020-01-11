@@ -38,7 +38,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Hotfix, a Chrome Extension - by Andrew Holsted
 - Multirotors - by Stoyan Zhekov
-- Using MailChimp and Zapier to Improve a Newsletter - by Sacha Greif
+- [Using MailChimp and Zapier to Improve a Newsletter](https://www.youtube.com/watch?v=3k2AOBgFD_8&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=4&t=0s) - by Sacha Greif
 
 ## HN Kansai 5 - Kyoto - 25 January 2013
 
