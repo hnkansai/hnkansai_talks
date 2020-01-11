@@ -70,6 +70,11 @@ The list of all the talks at HN Kansai events so far!
 - Date: 28 September 2018
 - A Full Tokyo Games Show 2018 Report - by Ben Murden and Raphael Guyot
 
+## HN Kansai 65
+
+- Location: Kyoto
+- Cancelled!
+
 ## HN Kansai 64
 
 - Location: Osaka
