@@ -76,7 +76,7 @@ The list of all the talks at HN Kansai events so far!
 - Location: Osaka
 - Date: 24 November 2017
 - [Marketing Your Project Through Youtube Ads](https://youtu.be/hs30WPkRpsY) - by Bemmu Sepponen
-- [Solving Math Problems with Code]() - by Skye Prietley
+- [Solving Math Problems with Code](https://youtu.be/U6jRQMTjDgE) - by Skye Prietley
 
 ## HN Kansai 51
 
