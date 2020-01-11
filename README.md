@@ -102,12 +102,19 @@ The list of all the talks at HN Kansai events so far!
 - [Marketing Your Project Through Youtube Ads](https://youtu.be/hs30WPkRpsY) - by Bemmu Sepponen
 - [Solving Math Problems with Code](https://youtu.be/U6jRQMTjDgE) - by Skye Prietley
 
+## HN Kansai 55
+
+- Location: Kobe
+- Date: 29 September 2017
+- [Gutenberg, a static site engine built in Rust]
+
 ## HN Kansai 54
 
 - Location: Osaka
 - Date: 1 September 2017
-- The State of JavaScript 2017 - by Michael Rambeau and Sacha Greif
-- Vienna's Tech Scene vs Osaka - by Martin Heidegger
+- [Writing a Slack Bot](https://youtu.be/qaQa6ZHIG6M) - by Jeff Madsen
+- [The State of JavaScript 2017](https://youtu.be/NLWw3a23mMg) - by Michael Rambeau and Sacha Greif
+- [Vienna's Tech Scene vs Osaka's](https://youtu.be/j_pbA8RSWSg) - by Martin Heidegger
 
 ## HN Kansai 51
 
