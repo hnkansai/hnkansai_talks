@@ -197,8 +197,8 @@ The list of all the talks at HN Kansai events so far!
 - Location: Kyoto
 - Date: 25 January 2013
 - [The Tech Behind the Artifacts Demo](https://www.youtube.com/watch?v=8iUXbxMU4TE) - by Eddie Lee
-- Brain Hacking - by Jaymin Kessler
-- Using An Unlocked Phone in Japan - by Julien Bataille
+- [Brain Hacking](https://youtu.be/fjbixkkz8Xc) - by Jaymin Kessler
+- [Using An Unlocked Phone in Japan](https://youtu.be/KEdIHAeIqJI) - by Julien Bataille
 
 ## HN Kansai 4 
 
