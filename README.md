@@ -13,6 +13,9 @@ The list of all the talks at HN Kansai events so far!
 - Flat Design - Sacha Greif
 - Building and Using a Standing Desk - Raphael Guyot 
 
+## HN Kansai 10 - Osaka - 26 July 2013
+
+
 ## HN Kansai 9
 
 - Interactive Audiovisual Experience with the Leap Motion Controller - by Eddie Lee
