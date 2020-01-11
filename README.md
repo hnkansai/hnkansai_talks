@@ -36,8 +36,8 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 6 - Osaka - 29 March 2013
 
-- Hotfix, a Chrome Extension - by Andrew Holsted
-- Multirotors - by Stoyan Zhekov
+- [Hotfix, a Chrome Extension](https://www.youtube.com/watch?v=vi2-8Dv9IYY&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=2&t=0s) - by Andrew Holsted
+- [Multirotors](https://www.youtube.com/watch?v=-lNrJnUXk8g&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=3&t=0s) - by Stoyan Zhekov
 - [Using MailChimp and Zapier to Improve a Newsletter](https://www.youtube.com/watch?v=3k2AOBgFD_8&list=PLPbAAnPEAdq632MYR7KoBs8CnXNKRIR64&index=4&t=0s) - by Sacha Greif
 
 ## HN Kansai 5 - Kyoto - 25 January 2013
