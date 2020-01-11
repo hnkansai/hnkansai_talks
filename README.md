@@ -21,6 +21,12 @@ The list of all the talks at HN Kansai events so far!
 - Brain Hacking - by Jaymin Kessler
 - Using An Unlocked Phone in Japan - by Julien Bataille
 
+## HN Kansai 4
+
+- VPNs - by Francisco Alcantara
+- Prototyping with Arduino - by Stoyan Zhekov
+- The First Hackers I Ever Knew - by Raphael Guyot
+- A Side Project - by Michael Frankland
 
 ## HN Kansai 3
 
