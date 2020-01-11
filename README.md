@@ -213,9 +213,9 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Osaka
 - Date: 26 October 2012
-* A closer look at the Raspberry Pi (including live demo) - by Raphael Guyot
-* An overview of ContextPower, an English vocab study system - by Russell Mull
-* Side Projects - by Sacha Greif
+* [A closer look at the Raspberry Pi](https://youtu.be/6AiDpN6m5ww) - by Raphael Guyot
+* [An overview of ContextPower, an English vocab study system](https://youtu.be/h4rfg0pByI4) - by Russell Mull
+* [Side Projects](https://youtu.be/53RoB1fhrlU) - by Sacha Greif
 
 ## HN Kansai 2 - Kyoto - 28 September 2012
 
