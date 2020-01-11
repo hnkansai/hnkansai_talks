@@ -64,6 +64,12 @@ The list of all the talks at HN Kansai events so far!
 - [The State of Javascript 2018](https://youtu.be/8whPMuYGuOY) - by Sacha Greif
 - [Introduction to the DAT Network](https://youtu.be/_2OdFHhCxrA) - by Martin Heidegger
 
+## HN Kansai 66
+
+- Location: Osaka
+- Date: 28 September 2018
+- A Full Tokyo Games Show 2018 Report - by Ben Murden and Raphael Guyot
+
 ## HN Kansai 64
 
 - Location: Osaka
