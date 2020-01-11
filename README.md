@@ -92,6 +92,19 @@ The list of all the talks at HN Kansai events so far!
 - [Silicon Valley: The Good, The Bad and The Ugly](https://youtu.be/6aqfKvXvXXk) - by David DuPouy
 - [Predatory High Frequency Trading](https://youtu.be/CHSaUo1P1fo) - by Craig Rozynski
 
+## HN Kansai 48
+
+- Location: Kyoto
+- Date: 24 February 2017
+- [Atmoph, A Digital Window](https://youtu.be/S9VzPOcA1qA) by Kyohi Kang
+
+## HN Kansai 47
+
+- Location: Kobe
+- Date: 27 January 2017
+- [2016 JSRisingStars](https://youtu.be/ecnyhJA5qV0) by Michael Rambeau
+- [Mangaki, A Manga/Anime Recommender System](https://youtu.be/4C5sSgSZNf0) by Jill-Jenn Vie
+
 ## HN Kansai 17
 
 - Location: Kobe
