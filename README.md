@@ -37,6 +37,13 @@ The list of all the talks at HN Kansai events so far!
 - Date: 1 March 2019
 - [Developing VR Experiences from Scratch With WebVR](https://www.youtube.com/watch?v=9GvEpqdkE0c&list=PLPbAAnPEAdq73EitCvnkfyScDulthkNXM&index=2&t=0s) - by Uri Shaked 
 
+## HN Kansai 13
+
+- Location: Kobe
+- Date:
+- [What to Expect of Valve's SteamOS ?](https://youtu.be/rIjV9dsG7AM) - By Raphael Guyot
+- [How to Market your Personal Projects](https://youtu.be/UuvAnz1cBng) - by Sacha Greif
+
 ## HN Kansai 11 - Kobe - 30 August 2013
 
 - VFX Camera Tracking - by David Morris
