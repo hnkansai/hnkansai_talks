@@ -102,6 +102,13 @@ The list of all the talks at HN Kansai events so far!
 - [Marketing Your Project Through Youtube Ads](https://youtu.be/hs30WPkRpsY) - by Bemmu Sepponen
 - [Solving Math Problems with Code](https://youtu.be/U6jRQMTjDgE) - by Skye Prietley
 
+## HN Kansai 54
+
+- Location: Osaka
+- Date: 1 September 2017
+- The State of JavaScript 2017 - by Michael Rambeau and Sacha Greif
+- Vienna's Tech Scene vs Osaka - by Martin Heidegger
+
 ## HN Kansai 51
 
 - Location: Osaka
