@@ -8,6 +8,13 @@ The list of all the talks at HN Kansai events so far!
 ## HN Kansai 74
 
 
+## HN Kansai 8
+
+- Casual Game Design for Language-learning, by Oliver Rose
+- Your Own Simple Electronics, by David Morris-Oliveros
+- Recognizing reading activities, by Kai Kunze
+- Open Pandora : The Pocket Gaming Computer running Linux, by Raphael Guyot
+
 ## HN Kansai 5
 
 - The Tech Behind "Artifacts" - by Eddie Lee
