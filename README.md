@@ -7,6 +7,10 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 74
 
+## HN Kansai 9
+
+- Interactive Audiovisual Experience with the Leap Motion Controller - by Eddie Lee
+- Bitcoin Hacks - by Tobias Hoenisch
 
 ## HN Kansai 8
 
