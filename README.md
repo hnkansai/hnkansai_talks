@@ -10,9 +10,9 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 5
 
-- Eddie Lee : "The Tech Behind "Artifacts""
-- Jaymin Kessler : "Brain Hacking"
-- Julien Bataille : "Using An Unlocked Phone in Japan"
+- The Tech Behind "Artifacts" - by Eddie Lee
+- Brain Hacking - by Jaymin Kessler
+- Using An Unlocked Phone in Japan - by Julien Bataille
 
 
 ## HN Kansai 3
