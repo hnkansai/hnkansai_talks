@@ -126,6 +126,12 @@ The list of all the talks at HN Kansai events so far!
 - [The State of JavaScript 2017](https://youtu.be/NLWw3a23mMg) - by Michael Rambeau and Sacha Greif
 - [Vienna's Tech Scene vs Osaka's](https://youtu.be/j_pbA8RSWSg) - by Martin Heidegger
 
+## HN Kansai 53
+
+- Location: Kobe
+- Date: 28 July 2017
+- Website User Testing - by Raphael Guyot
+
 ## HN Kansai 52
 
 - Location: Kyoto
