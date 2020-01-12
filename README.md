@@ -203,6 +203,10 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 42
 
+- Location: Osaka
+- Date: 24 June 2016
+- The Story of Pulse CMS - by Michael Frankland
+
 ## HN Kansai 41
 
 ## HN Kansai 40
