@@ -346,6 +346,12 @@ The list of all the talks at HN Kansai events so far!
 * [An overview of ContextPower, an English vocab study system](https://youtu.be/h4rfg0pByI4) - by Russell Mull
 * [Side Projects](https://youtu.be/53RoB1fhrlU) - by Sacha Greif
 
-## HN Kansai 2 - Kyoto - 28 September 2012
+## HN Kansai 2
 
-## HN Kansai 1 - Kyoto - 14 July 2012
+- Location: Kyoto
+- Date: 28 September 2012
+
+## HN Kansai 1
+
+- Location: Kyoto
+- Date: 14 July 2012
