@@ -145,6 +145,18 @@ The list of all the talks at HN Kansai events so far!
 - [Silicon Valley: The Good, The Bad and The Ugly](https://youtu.be/6aqfKvXvXXk) - by David DuPouy
 - [Predatory High Frequency Trading](https://youtu.be/CHSaUo1P1fo) - by Craig Rozynski
 
+## HN Kansai 50
+
+- Location: Kobe
+- Date: 28 April 2017
+- Data Backup Surveys and Strategies - by Raphael Guyot
+
+## HN Kansai 49
+
+- Location: Osaka
+- Date: 24 March 2017
+- Vulcan.js framework - by Sacha Greif
+
 ## HN Kansai 48
 
 - Location: Kyoto
