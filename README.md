@@ -27,7 +27,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Osaka
 - Date: 14 June 2019
-- VirtualDOM in React - by Alexey Ivanov
+- [VirtualDOM, How to use it in React and Why You Need it](https://youtu.be/NHAv7SLHKv0) - by Alexey Ivanov
 
 ## HN Kansai 73 - Osaka - 
 
