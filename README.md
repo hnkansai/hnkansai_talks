@@ -191,9 +191,15 @@ The list of all the talks at HN Kansai events so far!
 - Date: 30 September 2016
 - Fraud Detection for Candy Japan - by Bemmu Sepponen
 - Condatte startup - by Anton Zolotkov
-- The PocketChip - by Luis
+- The PocketChip - by Luis Fors
 
 ## HN Kansai 43
+
+- Location: Osaka
+- Date: 26 August 2016
+- Javascript unknown topic - by Sacha Greif
+- 9VAE SVG animation editor for Raspberry Pi - by Danjiro Daiwa
+- Film Photography and DSLR - by Raphael Guyot
 
 ## HN Kansai 42
 
