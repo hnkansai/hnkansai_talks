@@ -106,7 +106,7 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 56
 
-- Location: 
+- Location: Kyoto
 - Date: 27 October 2017
 - [Kyoto Makers Garage](https://youtu.be/pXcc-f0HNCM) - by Sabrina Sasaki
 - Best of JS 2017 Update - by Michael Rambeau
