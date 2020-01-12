@@ -115,7 +115,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kobe
 - Date: 29 September 2017
-- [Gutenberg, a static site engine built in Rust]
+- [Gutenberg, a static site engine built in Rust](https://youtu.be/nO0pTS8sqCA) - by Vincent Prouillet
 - Tokyo Games Show 2017 - By Ben Murden and Raphael Guyot
 
 ## HN Kansai 54
