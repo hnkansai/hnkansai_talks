@@ -239,7 +239,29 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 30
 
+## HN Kansai 29
 
+## HN Kansai 28
+
+## HN Kansai 27
+
+## HN Kansai 26
+
+## HN Kansai 25
+
+## HN Kansai 24
+
+## HN Kansai 23
+
+## HN Kansai 22
+
+## HN Kansai 21
+
+## HN Kansai 20
+
+## HN Kansai 19
+
+## HN Kansai 18
 
 ## HN Kansai 17
 
@@ -262,22 +284,30 @@ The list of all the talks at HN Kansai events so far!
 - [What to Expect of Valve's SteamOS ?](https://youtu.be/rIjV9dsG7AM) - By Raphael Guyot
 - [How to Market your Personal Projects](https://youtu.be/UuvAnz1cBng) - by Sacha Greif
 
-## HN Kansai 11 - Kobe - 30 August 2013
+## HN Kansai 11
 
+- Location: Kobe 
+- Date: 30 August 2013
 - VFX Camera Tracking - by David Morris
 - Flat Design - Sacha Greif
 - Building and Using a Standing Desk - Raphael Guyot 
 
-## HN Kansai 10 - Osaka - 26 July 2013
+## HN Kansai 10
 
+- Location: Osaka
+- Date: 26 July 2013
 
-## HN Kansai 9 - Kyoto - 28 June 2013
+## HN Kansai 9
 
+- Location: Kyoto
+- Date: 28 June 2013
 - Interactive Audiovisual Experience with the Leap Motion Controller - by Eddie Lee
 - Bitcoin Hacks - by Tobias Hoenisch
 
-## HN Kansai 8 - Kobe - 31 May 2013
+## HN Kansai 8
 
+- Location: Kobe
+- Date: 31 May 2013
 - Casual Game Design for Language-learning, by Oliver Rose
 - Your Own Simple Electronics, by David Morris-Oliveros
 - Recognizing reading activities, by Kai Kunze
