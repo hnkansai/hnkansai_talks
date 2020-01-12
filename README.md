@@ -25,6 +25,8 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 74
 
+- Location: Osaka
+- Date: 14 June 2019
 - VirtualDOM in React - by Alexey Ivanov
 
 ## HN Kansai 73 - Osaka - 
