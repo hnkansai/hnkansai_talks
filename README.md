@@ -170,6 +170,59 @@ The list of all the talks at HN Kansai events so far!
 - [2016 JSRisingStars](https://youtu.be/ecnyhJA5qV0) by Michael Rambeau
 - [Mangaki, A Manga/Anime Recommender System](https://youtu.be/4C5sSgSZNf0) by Jill-Jenn Vie
 
+## HN Kansai 46
+
+- Location: Osaka ?
+- Date: 2 December 2016
+- Marketing Yourself as a Developer - 
+- The State of Javascript 2016 - by Sacha Greif
+- (unknown topic) - by Jeff Madsen
+
+## HN Kansai 45
+
+- Location: Kyoto
+- Date: 28 October 2016 
+- Language Context Understanding by AI - (?)
+- Transpositron, a Single-Page Application - by Ben Murden
+
+## HN Kansai 44
+
+- Location: Kobe
+- Date: 30 September 2016
+- Fraud Detection for Candy Japan - by Bemmu Sepponen
+- Condatte startup - by Anton Zolotkov
+- The PocketChip - by Luis
+
+## HN Kansai 43
+
+## HN Kansai 42
+
+## HN Kansai 41
+
+## HN Kansai 40
+
+## HN Kansai 39
+
+## HN Kansai 38
+
+## HN Kansai 37
+
+## HN Kansai 36
+
+## HN Kansai 35
+
+## HN Kansai 34
+
+## HN Kansai 33
+
+## HN Kansai 32
+
+## HN Kansai 31
+
+## HN Kansai 30
+
+
+
 ## HN Kansai 17
 
 - Location: Kobe
