@@ -209,7 +209,15 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 41
 
+- Location: Kobe
+- Date: 27 May 2016
+- ?
+
 ## HN Kansai 40
+
+- Location: Kyoto
+- Date: 22 April 2016
+- ?
 
 ## HN Kansai 39
 
