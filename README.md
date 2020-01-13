@@ -342,7 +342,7 @@ The list of all the talks at HN Kansai events so far!
 - Date: 28 June 2013
 - [Super Language Games](https://youtu.be/sVYO9XaqB78) - by Josh Wilson
 - Interactive Audiovisual Experience with the Leap Motion Controller - by Eddie Lee
-- Bitcoin Hacks - by Tobias Hoenisch
+- [Bitcoin Hacks](https://youtu.be/0-16UBPHTRM) - by Tobias Hoenisch
 
 ## HN Kansai 8
 
