@@ -99,6 +99,23 @@ The list of all the talks at HN Kansai events so far!
 - DAppboard a next-generation blockchain explorer - by Aimable Dusingizimana
 - [Home Server Beyond the Pi](https://youtu.be/q4t1R7JQcbw) by Raphael Guyot
 
+## HN Kansai 60
+
+- Location: Kyoto
+- Date: 30 March 2018
+- E3 related presentation - by Ben Murden
+- Desining and Making T-shirts - by Sacha Greif
+
+## HN Kansai 59
+
+- Location: Osaka
+- Date: 23 February 2018
+
+## HN Kansai 58
+
+- Location: Kobe
+- Date: 26 January 2018
+
 ## HN Kansai 57
 
 - Location: Osaka
