@@ -394,6 +394,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kyoto
 - Date: 28 September 2012
+- Tokyo Games Show 2012 - by Raphael Guyot
 
 ## HN Kansai 1
 
