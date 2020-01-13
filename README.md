@@ -247,6 +247,10 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 27
 
+- Location: Osaka
+- Date: 27 February 2015
+- [3D Printing, from Polygons to Voxels](https://youtu.be/Io_P9NMgVyE) - by Juho Viitasalo
+
 ## HN Kansai 26
 
 ## HN Kansai 25
@@ -260,6 +264,10 @@ The list of all the talks at HN Kansai events so far!
 ## HN Kansai 21
 
 ## HN Kansai 20
+
+- Location: Kobe
+- Date: 27 June 2014
+- [Microsoft Azure](https://youtu.be/Ire6sLSh4oU) - by Andrew Harris
 
 ## HN Kansai 19
 
