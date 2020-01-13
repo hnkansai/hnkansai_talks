@@ -327,7 +327,7 @@ The list of all the talks at HN Kansai events so far!
 - Date: 30 August 2013
 - [VFX Camera Tracking](https://youtu.be/YyNC9v6tOLc) - by David Morris
 - Flat Design - Sacha Greif
-- Building and Using a Standing Desk - Raphael Guyot 
+- [Building and Using a Standing Desk](https://youtu.be/7XrNODB6_20) - Raphael Guyot 
 
 ## HN Kansai 10
 
