@@ -284,10 +284,13 @@ The list of all the talks at HN Kansai events so far!
 - Location: Kobe
 - Date: 24 April 2015
 - Hoodownr, an Android game - by Sami
+- (presentation by Sacha?)
 
 ## HN Kansai 28
 
-
+- Location: Kyoto
+- Date: (?)
+- Hacking Kansai with we-are-root - by Martin Heidegger
 
 ## HN Kansai 27
 
@@ -297,7 +300,15 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 26
 
+- Location: Kobe
+- Date: 30 January 2015
+- (no formal presentation?)
+
 ## HN Kansai 25
+
+- Location: Kyoto
+- Date: 28 November 2014
+- (unknown) - by Martin Heidegger
 
 ## HN Kansai 24
 
@@ -320,6 +331,12 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 21
 
+- Location: Osaka
+- Date: 25 July 2014
+- The Psychology of Pricing - by Sacha Greif
+- Writing, Copywriting. How to better talk about your Products - by Raphael Guyot
+- Journey to indie Mac development - by Basil Shkara
+
 ## HN Kansai 20
 
 - Location: Kobe
@@ -334,6 +351,9 @@ The list of all the talks at HN Kansai events so far!
 - [Smartphones in South Korea](https://youtu.be/APkPEw5yktY) - by Raphael Guyot
 
 ## HN Kansai 18
+
+- Location:
+- Date: 25 April 2014
 
 ## HN Kansai 17
 
@@ -368,6 +388,9 @@ The list of all the talks at HN Kansai events so far!
 - [How to Market your Personal Projects](https://youtu.be/UuvAnz1cBng) - by Sacha Greif
 
 ## HN Kansai 12
+
+- Location: Kyoto
+- Date: 27 September 2013
 
 ## HN Kansai 11
 
