@@ -348,10 +348,10 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kobe
 - Date: 31 May 2013
-- Casual Game Design for Language-learning, by Oliver Rose
-- Your Own Simple Electronics, by David Morris-Oliveros
-- Recognizing reading activities, by Kai Kunze
-- Open Pandora : The Pocket Gaming Computer running Linux, by Raphael Guyot
+- [Casual Game Design for Language-learning](https://youtu.be/6mkm48w4vWk) - by Oliver Rose
+- [Your Own Simple Electronics](https://youtu.be/rKgb93q-xgg) - by David Morris-Oliveros
+- [Recognizing reading activities](https://youtu.be/xmC9j73arJY) - by Kai Kunze
+- [Open Pandora : The Pocket Gaming Computer running Linux](https://youtu.be/9rhJn_b9Pf8) - by Raphael Guyot
 
 ## HN Kansai 6
 
