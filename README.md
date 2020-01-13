@@ -296,6 +296,10 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kyoto
 - Date: 28 February 2014
+- [Using GitHub to Manage Translations](https://youtu.be/Bske5AomUJw) - by Sacha Greif
+- [A Better Wifi Solution on the Go in Japan](https://youtu.be/d5ICwRHvOe0) - by Thomas Bertrand
+- [Hosting your Own Photos Online](https://youtu.be/3ePGifHCQC4) - by Michael Camilleri
+- [The Life and Death of the Sega Saturn](https://youtu.be/pLQ4aec5_4s) - by Raphael Guyot
 
 ## HN Kansai 15
 
