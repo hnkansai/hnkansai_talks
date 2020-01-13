@@ -29,8 +29,10 @@ The list of all the talks at HN Kansai events so far!
 - Date: 14 June 2019
 - [VirtualDOM, How to use it in React and Why You Need it](https://youtu.be/NHAv7SLHKv0) - by Alexey Ivanov
 
-## HN Kansai 73 - Osaka - 
+## HN Kansai 73
 
+- Location: Osaka
+- Date: 31 May 2019
 - The Linux Desktop: How Much Has It Progressed? - By Raphael Guyot
 
 ## HN Kansai 72
