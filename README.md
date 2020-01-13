@@ -333,6 +333,8 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Osaka
 - Date: 26 July 2013
+- [A Ruby Rewrite of the Japanese Dictionary JDIC](https://youtu.be/e4j4wVJ-_2g) - by Mark Buns
+- [Furicle, Bringing Kimono Overseas](https://youtu.be/7OciyOpQ-AE) - by Yoshikazu Hashimoto
 
 ## HN Kansai 9
 
