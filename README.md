@@ -354,7 +354,7 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 18
 
-- Location:
+- Location: Osaka
 - Date: 25 April 2014
 
 ## HN Kansai 17
