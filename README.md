@@ -315,7 +315,7 @@ The list of all the talks at HN Kansai events so far!
 ## HN Kansai 13
 
 - Location: Kobe
-- Date:
+- Date: 25 October 2013
 - [What to Expect of Valve's SteamOS ?](https://youtu.be/rIjV9dsG7AM) - By Raphael Guyot
 - [How to Market your Personal Projects](https://youtu.be/UuvAnz1cBng) - by Sacha Greif
 
