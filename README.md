@@ -263,6 +263,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kyoto
 - Date: 29 August 2014
+- [Psychology and Marketing](https://youtu.be/X6ruOImJvvM) - by Sacha Greif
 - [R for Data Exploration](https://youtu.be/CQptD7WiGB4) - by Sean Colquhoun
 
 ## HN Kansai 21
@@ -275,7 +276,7 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 19
 
-- Location: Kytoto
+- Location: Kyoto
 - Date: 30 May 2014
 - [Git's Guts](https://youtu.be/32J5Rx9KxmQ) - by Daniel Wright
 - [Smartphones in South Korea](https://youtu.be/APkPEw5yktY) - by Raphael Guyot
