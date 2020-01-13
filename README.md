@@ -191,7 +191,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kobe
 - Date: 30 September 2016
-- Fraud Detection for Candy Japan - by Bemmu Sepponen
+- [How Many Lines of Code Are Needed for Candy Japan](https://youtu.be/nPVK4PhioFU) - by Bemmu Sepponen
 - Condatte startup - by Anton Zolotkov
 - The PocketChip - by Luis Fors
 
