@@ -340,6 +340,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kyoto
 - Date: 28 June 2013
+- [Super Language Games](https://youtu.be/sVYO9XaqB78) - by Josh Wilson
 - Interactive Audiovisual Experience with the Leap Motion Controller - by Eddie Lee
 - Bitcoin Hacks - by Tobias Hoenisch
 
