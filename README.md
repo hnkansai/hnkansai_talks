@@ -261,6 +261,10 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 22
 
+- Location: Kyoto
+- Date: 29 August 2014
+- [R for Data Exploration](https://youtu.be/CQptD7WiGB4) - by Sean Colquhoun
+
 ## HN Kansai 21
 
 ## HN Kansai 20
