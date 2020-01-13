@@ -257,6 +257,10 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 24
 
+- Location: Osaka
+- Date: 31 Oct 2014
+- The Price of Design - by Sacha Greif
+
 ## HN Kansai 23
 
 ## HN Kansai 22
