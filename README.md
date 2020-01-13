@@ -213,37 +213,81 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kobe
 - Date: 27 May 2016
-- ?
 
 ## HN Kansai 40
 
 - Location: Kyoto
 - Date: 22 April 2016
-- ?
+- Anand Sharma talks about his projects and life in SF - by Anand Sharma
 
 ## HN Kansai 39
 
+- Location: Kobe
+- Date: 26 March 2016
+- Mobility and Convergence - by Raphael Guyot
+
 ## HN Kansai 38
+
+- Location: Osaka
+- Date: 24 February 2016
 
 ## HN Kansai 37
 
+- Location: Kyoto
+- Date: 29 January 2016
+- Slack Integrations and Bots - by Matthieu (?)
+
 ## HN Kansai 36
+
+- Location: Osaka
+- Date: 27 November 2015
 
 ## HN Kansai 35
 
+- Location: Kobe
+- Date: 30 October 2015
+- Game engines Powered by Web Technologies - by Daniel (?)
+- Fighting Credit Card Fraud Online - by Bemmu Sepponen (to confirm if it actually took place?)
+
 ## HN Kansai 34
+
+- Location: Kyoto
+- Date: 25 September 2015
 
 ## HN Kansai 33
 
+- Location: Osaka
+- Date: 28 August 2015
+- Front End Development - by Martin Heidegger
+
 ## HN Kansai 32
+
+- Location: Kobe
+- Date: 31 July 2015
+- Cardano, a new cryptocurrency - by Taro Taniguchi
+- (another presentation)
 
 ## HN Kansai 31
 
+- Location: Kyoto
+- Date: 26 June 2015
+- Tribute to Alexander Shulgin - by Luis Fors
+
 ## HN Kansai 30
+
+- Location: Osaka
+- Date: 29 May 2015
+- Intellectual Property Laws - by Michael Camilleri
 
 ## HN Kansai 29
 
+- Location: Kobe
+- Date: 24 April 2015
+- Hoodownr, an Android game - by Sami
+
 ## HN Kansai 28
+
+
 
 ## HN Kansai 27
 
