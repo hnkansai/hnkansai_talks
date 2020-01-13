@@ -426,6 +426,12 @@ The list of all the talks at HN Kansai events so far!
 - [Recognizing reading activities](https://youtu.be/xmC9j73arJY) - by Kai Kunze
 - [Open Pandora : The Pocket Gaming Computer running Linux](https://youtu.be/9rhJn_b9Pf8) - by Raphael Guyot
 
+## HN Kansai 7
+
+- Location: Kyoto
+- Date (?)
+- Was a Hackathon
+
 ## HN Kansai 6
 
 - Location: Osaka
