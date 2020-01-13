@@ -170,7 +170,7 @@ The list of all the talks at HN Kansai events so far!
 - Date: 27 January 2017
 - [2016 JSRisingStars](https://youtu.be/ecnyhJA5qV0) by Michael Rambeau
 - [Mangaki, A Manga/Anime Recommender System](https://youtu.be/4C5sSgSZNf0) by Jill-Jenn Vie
-- [Nintendo Dwitch: Stuff I found interesting](https://youtu.be/5GNYdihVYdQ) - by Ben Murden
+- [Nintendo Switch: Stuff I found interesting](https://youtu.be/5GNYdihVYdQ) - by Ben Murden
 
 ## HN Kansai 46
 
