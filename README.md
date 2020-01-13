@@ -149,6 +149,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kobe
 - Date: 28 April 2017
+- [Building a Quick DSL](Building a quick DSL) - By Anton Zolotfov 
 - Data Backup Surveys and Strategies - by Raphael Guyot
 
 ## HN Kansai 49
