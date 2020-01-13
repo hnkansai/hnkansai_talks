@@ -263,6 +263,10 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 23
 
+- Location: Kobe
+- Date: 26 September 2014
+- [Smart EyeWear](https://youtu.be/3DvjMg0II0A) - by Kai Kunze
+
 ## HN Kansai 22
 
 - Location: Kyoto
