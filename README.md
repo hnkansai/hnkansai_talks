@@ -263,6 +263,11 @@ The list of all the talks at HN Kansai events so far!
 
 ## HN Kansai 19
 
+- Location: Kytoto
+- Date: 30 May 2014
+- [Git's Guts](https://youtu.be/32J5Rx9KxmQ) - by Daniel Wright
+- [Smartphones in South Korea](https://youtu.be/APkPEw5yktY) - by Raphael Guyot
+
 ## HN Kansai 18
 
 ## HN Kansai 17
@@ -278,6 +283,13 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Kyoto
 - Date: 28 February 2014
+
+## HN Kansai 15
+
+- Location: Kobe
+- Date: 3 January 2014
+- [Hacking Google Glass](https://youtu.be/o1eg1GyM5FI) - by Kai Kunze
+- [Ethereum](https://youtu.be/jjzzplJ3sS0) - by Jeremy Wood
 
 ## HN Kansai 13
 
