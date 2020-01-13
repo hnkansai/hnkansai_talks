@@ -319,11 +319,13 @@ The list of all the talks at HN Kansai events so far!
 - [What to Expect of Valve's SteamOS ?](https://youtu.be/rIjV9dsG7AM) - By Raphael Guyot
 - [How to Market your Personal Projects](https://youtu.be/UuvAnz1cBng) - by Sacha Greif
 
+## HN Kansai 12
+
 ## HN Kansai 11
 
 - Location: Kobe 
 - Date: 30 August 2013
-- VFX Camera Tracking - by David Morris
+- [VFX Camera Tracking](https://youtu.be/YyNC9v6tOLc) - by David Morris
 - Flat Design - Sacha Greif
 - Building and Using a Standing Desk - Raphael Guyot 
 
