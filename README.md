@@ -1,6 +1,13 @@
 # HN Kansai Talks
 The list of all the talks at HN Kansai events so far!
 
+## HN Kansai 78
+
+- Location: Osaka (Juso)
+- Date: 31 January 2020
+- RingSocket: A WebSocket Server - by Will Budd
+- Agile Methodologies - by Mouna Balghouthi
+
 ## HN Kansai 77
 
 - Location: Osaka
