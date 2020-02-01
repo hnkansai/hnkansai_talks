@@ -6,7 +6,7 @@ The list of all the talks at HN Kansai events so far!
 - Location: Osaka (Juso)
 - Date: 31 January 2020
 - RingSocket: A WebSocket Server - by Will Budd
-- Agile Methodologies - by Mouna Balghouthi
+- [Core Agile Methodologies: Pros and Cons](https://www.youtube.com/watch?v=vPMMYxwc4Wg) - by Mouna Balghouthi
 
 ## HN Kansai 77
 
