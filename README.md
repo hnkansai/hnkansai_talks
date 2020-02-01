@@ -5,7 +5,7 @@ The list of all the talks at HN Kansai events so far!
 
 - Location: Osaka (Juso)
 - Date: 31 January 2020
-- RingSocket: A WebSocket Server - by Will Budd
+- [RingSocket: A WebSocket Server](https://www.youtube.com/watch?v=6IpGFg4o1Ek&feature=youtu.be) - by Will Budd
 - [Core Agile Methodologies: Pros and Cons](https://www.youtube.com/watch?v=vPMMYxwc4Wg) - by Mouna Balghouthi
 
 ## HN Kansai 77
